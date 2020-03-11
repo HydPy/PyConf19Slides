@@ -2,8 +2,8 @@
 Slide decks of Workshops, Talks and Keynotes presented during PyConf Hyderabad 2019
 
 ## Workshops
-- Kubernetes for dev - myth or reality ? by Arun Chaudhary and Vikas Kumar
-- Decrypting ML models using LIME by Laisha Wadhwa
+- [Kubernetes for dev - myth or reality ?](https://github.com/vikasit12/PyConf2019-k8s-workshop/) by Arun Chaudhary and Vikas Kumar
+- [Decrypting ML models using LIME](https://github.com/laishawadhwa/PyConf-2019---Lime-Workshop) by Laisha Wadhwa
 - Unit Testing with Mocks by Vijay Kumar
 
 ## Keynotes
